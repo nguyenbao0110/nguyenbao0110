@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Le Nguyen Bao!  
-![Profile Banner](https://raw.githubusercontent.com/nguyenbao0110/nguyenbao0110/main/banner.png)
+![Profile Banner](https://raw.githubusercontent.com/nguyenbao0110/nguyenbao0110/main/banner1.jpg)
 
 ## 🌟 About Me
 - 🔥 Passionate about **Mobile Development**
