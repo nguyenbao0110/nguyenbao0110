@@ -6,5 +6,5 @@
 - 🚀 Always learning new technologies!
 ## 🌟 Education
 - 🎓University: HUTECH University
-- 🎓GPA: 3.59/4.0
+- 🎓GPA: 2.78/4.0
 - 🎓Year: 20121-2025
