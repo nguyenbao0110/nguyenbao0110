@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 - 🔥 Passionate about **Mobile Development**
-- 💻 **Tech Stack:**  Flutter | Git **
+- 💻 **Tech Stack: **Flutter | Git**
 - 🚀 Always learning new technologies!
 ## 🌟 Education
 - 🎓University: HUTECH University
