@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Le Nguyen Bao!  
-https://raw.githubusercontent.com/nguyenbao0110/nguyenbao0110/main/banner.jpg
+![Profile Banner](https://raw.githubusercontent.com/nguyenbao0110/nguyenbao0110/main/images/banner.jpg)
+
 ## 🌟 About Me
 - 🔥 Passionate about **Mobile Development**
 - 💻 **Tech Stack: **Flutter | Git**
