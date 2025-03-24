@@ -7,5 +7,5 @@
 ## 🌟 Education
 - 🎓University: HUTECH University
 - 🎓GPA: 2.78/4.0
-- 🎓Year: 20121-2025
+- 🎓Year: 2021-2025
 ![Profile Banner](https://raw.githubusercontent.com/nguyenbao0110/nguyenbao0110/main/banner1.jpg)
